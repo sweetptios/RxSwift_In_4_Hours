@@ -5,6 +5,6 @@
 
 clean architecture를 기반으로 RxMVVM을 적용해봤다.
 
-> [MyPractice](MyPractice/)
+> [MyPractice](myPractice/)
 
 ![](myPractice/MainClassDiagram.jpg)
